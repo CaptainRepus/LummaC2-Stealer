@@ -168,3 +168,4 @@ int32_t __fastcall processPath(PWSTR fileExtension,
                                 int32_t** SysInfo);
 
 #endif
+
